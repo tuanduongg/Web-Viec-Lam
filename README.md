@@ -16,4 +16,13 @@ Plugin or Servies
     <li>fontawesome-iconpicker</li>
     <li>sweetalert2</li>
 </ul>
+Clone & Download Code
+<ul>
+<li>
+    clone: <a href="#">https://github.com/tuanduongg/Web-Viec-Lam.git</a>
+</li>
+<li>
+<a href="https://github.com/tuanduongg/Web-Viec-Lam/archive/refs/heads/main.zip">download</a>
+</li>
+</ul>
 
