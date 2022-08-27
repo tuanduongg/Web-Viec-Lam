@@ -7,12 +7,9 @@ Plugin or Servies
     <li>Summernote</li>
     <li>Chartjs</li>
     <li>moment</li>
-    <li>Google map</li>
-    <li>bootstrap-fileinput</li>
+    <li>bootstrap</li>
     <li>jquery</li>
     <li>toastr</li>
-    <li>bootstrap-number-input</li>
-    <li>fontawesome-iconpicker</li>
     <li>sweetalert2</li>
 </ul>
 Clone & Download Code
