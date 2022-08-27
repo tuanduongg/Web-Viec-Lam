@@ -6,7 +6,6 @@ Plugin or Servies
     <li>Datatables</li>
     <li>Summernote</li>
     <li>Chartjs</li>
-    <li>font-awesome</li>
     <li>moment</li>
     <li>Google map</li>
     <li>bootstrap-fileinput</li>
