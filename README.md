@@ -9,7 +9,7 @@ Plugin or Servies
     <li>moment</li>
     <li>Google map</li>
     <li>bootstrap-fileinput</li>
-    <li>jquery-ajax</li>
+    <li>jquery</li>
     <li>toastr</li>
     <li>bootstrap-number-input</li>
     <li>fontawesome-iconpicker</li>
